@@ -11,9 +11,9 @@ def main():
 
     # Sample book content
     book_pages = [
-        "This is the first page of the book. It sets the stage for the story.",
-        "This is the second page, where the plot begins to unfold.",
-        "Here is the third page, with more character development.",
+        "Writing the app: This involves creating the structure and functionality of the application. Streamlit makes it easy to build interactive apps with minimal code. Plan out your app's purpose and features before diving into coding.",
+        "Testing the app: Ensure that your app works as intended by thoroughly testing each feature. Streamlit's live preview feature helps you quickly identify and fix issues during development.",
+        "Documenting the app: Good documentation is key for version control and local storage. Include clear instructions on how to use the app, maintain it, and collaborate with others. Use tools like Git for version control to track changes and manage updates.",
         "On the fourth page, the story takes an unexpected turn.",
         "The fifth page starts to bring things toward a climax.",
         "Finally, the last page wraps up the story with a satisfying conclusion."
