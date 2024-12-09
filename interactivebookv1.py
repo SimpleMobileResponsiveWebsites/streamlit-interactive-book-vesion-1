@@ -19,6 +19,15 @@ def main():
 
 [Open The AI Coding Tools Directory](https://aicodingtoolsdirectoryv1.streamlit.app/)
 
+""",
+        """
+        
+### VCSToPDF Tool for Documentation
+
+**Use the link below to open the VCSToPDF tool:**
+
+[Open VCSToPDF Tool](https://vcstopdf1v3.streamlit.app/)
+
 """
     ]
 
