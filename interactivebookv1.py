@@ -13,7 +13,7 @@ def main():
     book_pages = [
         """
         
-### Use generational ai to write the code
+### Use Generative AI coding Tools to write the code
 
 **Use the link below to open up a directory of generative ai tools:**
 
