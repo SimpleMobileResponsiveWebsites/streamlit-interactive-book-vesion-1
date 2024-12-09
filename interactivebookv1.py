@@ -11,7 +11,7 @@ def main():
 
     # Sample book content split into manageable strings
     book_pages = [
-        """Use generational ai to write the code: 
+        """
         
 ### Use generational ai to write the code
 
