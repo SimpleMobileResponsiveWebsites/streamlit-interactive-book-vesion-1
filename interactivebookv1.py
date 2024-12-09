@@ -17,6 +17,8 @@ def main():
 
 **Use the link below to open up a directory of generative ai tools:**
 
+[Open AI Coding Tools Directory](https://aicodingtoolsdirectoryv1.streamlit.app/)
+
 Clearly articulate the app's goals and the problems it solves.
 Identify core features and functionalities.
 
@@ -44,49 +46,7 @@ Implement logging for debugging and monitoring.
 Evaluate what data is suitable for local storage (e.g., user preferences, cache).
 Use encryption for sensitive information.
 Implement synchronization with remote storage when applicable.
-""",
-        """Testing the App:
-
-Ensure that your app works as intended by thoroughly testing each feature. Streamlit's live preview feature helps you quickly identify and fix issues during development.
-
-**Plan the Test Strategy:**
-- Outline unit tests, integration tests, end-to-end tests, and performance tests.
-- Prioritize critical paths for rigorous testing.
-
-**Automated Testing:**
-- Use frameworks like Jest, Mocha, or Selenium for automated testing.
-- Integrate CI/CD pipelines for regular test execution.
-
-**Manual Testing:**
-- Perform exploratory testing to identify edge cases.
-- Test on diverse platforms, browsers, and devices.
-
-**Error Handling and Reporting:**
-- Ensure comprehensive error messages and logs.
-- Implement real-time monitoring using services like Sentry or Datadog.
-
-It's critically important to finish the testing end-to-end for the application before you release the product.
-""",
-        """Documenting the app:
-
-Good documentation is key for version control and local storage. Include clear instructions on how to use the app, maintain it, and collaborate with others. Use tools like Git for version control to track changes and manage updates.
-
-**Local Storage Documentation:**
-- Specify data storage mechanisms, structure, and retrieval logic.
-- Include guidelines on how to safely update or clear local storage without data loss.
-- Document encryption methods for stored data.
-
-**API Documentation:**
-- Use tools like Swagger or Postman to auto-generate API documentation.
-- Include examples of requests and responses for each endpoint.
-
-**Version Control and Documentation:**
-- Ensure you document the end-to-end testing so others can validate and verify what end-to-end tests have been completed, keeping everyone included in the project up to date on the project's status.
-- Use VCSTopdf to document the app version, regression testing notes, terminal outputs, and codebases.
-""",
-        """On the fourth page, the story takes an unexpected turn.""",
-        """The fifth page starts to bring things toward a climax.""",
-        """Finally, the last page wraps up the story with a satisfying conclusion."""
+"""
     ]
 
     # Number of pages in the book
