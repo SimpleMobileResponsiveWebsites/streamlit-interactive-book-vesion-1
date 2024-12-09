@@ -11,11 +11,11 @@ def main():
 
     # Sample book content split into manageable strings
     book_pages = [
-        """Writing the app: Here's an organized overview discussing writing, testing, and documenting an app with considerations for version control and local storage:
+        """Use generational ai to write the code: Here's an organized overview discussing writing, testing, and documenting an app with considerations for version control and local storage:
 
-### Writing the App
+### Use generational ai to write the code
 
-**Define the Purpose and Scope:**
+**Use the link below to open up a directory of generative ai tools:**
 
 Clearly articulate the app's goals and the problems it solves.
 Identify core features and functionalities.
