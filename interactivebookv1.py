@@ -17,7 +17,7 @@ def main():
 
 **Use the link below to open up a directory of generative ai tools:**
 
-[Open AI Coding Tools Directory](https://aicodingtoolsdirectoryv1.streamlit.app/)
+[Open The AI Coding Tools Directory](https://aicodingtoolsdirectoryv1.streamlit.app/)
 
 """
     ]
