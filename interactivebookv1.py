@@ -11,41 +11,14 @@ def main():
 
     # Sample book content split into manageable strings
     book_pages = [
-        """Use generational ai to write the code: Here's an organized overview discussing writing, testing, and documenting an app with considerations for version control and local storage:
-
+        """Use generational ai to write the code: 
+        
 ### Use generational ai to write the code
 
 **Use the link below to open up a directory of generative ai tools:**
 
 [Open AI Coding Tools Directory](https://aicodingtoolsdirectoryv1.streamlit.app/)
 
-Clearly articulate the app's goals and the problems it solves.
-Identify core features and functionalities.
-
-**Choose the Technology Stack:**
-
-- **Frontend**: Frameworks like React, Angular, or Vue.js.
-- **Backend**: Node.js, Python (Django/Flask), or Java (Spring).
-- **Database**: SQL (PostgreSQL, MySQL) or NoSQL (MongoDB).
-- **Local storage**: Options like IndexedDB, LocalStorage, or file-based storage.
-
-**Architecture and Design Patterns:**
-
-Use scalable and maintainable architecture, e.g., MVC or MVVM.
-Plan for modularity and reusable components.
-Incorporate APIs for backend communication and third-party integrations.
-
-**Development:**
-
-Adhere to clean code principles.
-Use consistent naming conventions and structure.
-Implement logging for debugging and monitoring.
-
-**Local Storage Integration:**
-
-Evaluate what data is suitable for local storage (e.g., user preferences, cache).
-Use encryption for sensitive information.
-Implement synchronization with remote storage when applicable.
 """
     ]
 
