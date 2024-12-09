@@ -92,14 +92,18 @@ Good documentation is key for version control and local storage. Include clear i
     # Number of pages in the book
     total_pages = len(book_pages)
 
-    # Sidebar navigation
-    st.sidebar.write("Navigate through the pages:")
-    page_number = st.sidebar.number_input(
-        "Go to page:", min_value=1, max_value=total_pages, value=1, step=1
-    )
+    # Table of Contents (TOC)
+    st.sidebar.write("**Table of Contents:**")
+    for i, content in enumerate(book_pages):
+        if st.sidebar.button(f"Page {i + 1}"):
+            st.session_state["page_number"] = i
+
+    # Initialize page_number in session state
+    if "page_number" not in st.session_state:
+        st.session_state["page_number"] = 0
 
     # Display the selected page
-    display_page(page_number - 1, book_pages)
+    display_page(st.session_state["page_number"], book_pages)
 
 if __name__ == "__main__":
     main()
