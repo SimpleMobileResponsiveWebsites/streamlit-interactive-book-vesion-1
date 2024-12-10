@@ -105,6 +105,36 @@ def main():
            - Include regression testing notes.
            - Capture terminal outputs.
            - Archive code bases.
+        """,
+        """
+        ### Regression Testing and Documentation
+
+        #### App Version
+
+        Ensure that the current application version is properly documented. Include version details in all relevant files and documentation.
+
+        #### Regression Testing Notes
+
+        - Maintain detailed notes of all regression testing performed, including:
+          - New features tested.
+          - Issues identified and resolved.
+          - Performance benchmarks.
+
+        #### Current Terminal Output
+
+        - Capture and save the current terminal output for debugging and documentation purposes.
+
+        #### Codebases
+
+        - Archive the codebase for the current version.
+        - Maintain a changelog of updates.
+
+        #### Saving and Generating Documentation
+
+        - Save the current testing documentation to the regression testing Streamlit app.
+        - Generate a .pdf file summarizing the current codebase documentation.
+        - Provide a download link for the .pdf file for easy access and sharing.
+
         """
     ]
 
