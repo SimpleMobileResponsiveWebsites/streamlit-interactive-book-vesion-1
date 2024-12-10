@@ -37,6 +37,19 @@ def main():
 
         **Start using ChatGPT for coding assistance here:**
         [Explore ChatGPT](https://chat.openai.com/)
+        """,
+        """
+        ### Using Claude.ai for AI-Powered Coding
+
+        Claude.ai is another powerful AI tool for assisting with your coding needs. 
+        Here are some ways to utilize Claude.ai effectively:
+
+        1. **Natural Language Coding:** Provide conversational instructions to generate code snippets.
+        2. **Debugging and Testing:** Use Claude.ai to identify and fix issues in your code.
+        3. **Documentation Support:** Ask Claude.ai to help create clear and concise documentation for your projects.
+
+        **Start using Claude.ai for your projects here:**
+        [Explore Claude.ai](https://claude.ai/)
         """
     ]
 
