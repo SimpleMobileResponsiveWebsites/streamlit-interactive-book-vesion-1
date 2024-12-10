@@ -380,6 +380,17 @@ def main():
 
 
         
+        """, """
+        ### Creating A Requirements.txt File | Github.com
+
+        #### talk about the fundamentals of what a requirements.txt file is
+         -  talk about creating the requirements.txt file
+         - explain what an public application is
+         -  talk about creating the requirements.txt file
+
+
+
+        
         """
     ]
 
