@@ -330,15 +330,15 @@ def main():
         """, """
         ### Streamlit | Streamlit Cloud | A Faster Way To Build Apps
 
-        #### # write about the impact of streamlit after learning 12 programming languages:
+        ### Write about the impact of streamlit after learning 12 programming languages:
           - How different programming languages impact different tech stacks
           - What different programming languages can create
           - What you learn when your coding the same project in different programming languages, a pattern emerges
         
         """, """
-        ### # Write about software testing, software testing documentation, compiling the:
+        ### Write about software testing, software testing documentation, compiling the:
 
-        #### # softare testing fundamentals:
+        #### softare testing fundamentals:
           - App version 
           - Interpreter
           - Regression testing notes
@@ -348,9 +348,9 @@ def main():
 
         
         """, """
-        ### # Repository | Branch Name | File Name | App URL - Name Of Application | Python Version - Advanced Settings
+        ### Repository | Branch Name | File Name | App URL - Name Of Application | Python Version - Advanced Settings
 
-        #### # softare testing fundamentals:
+        ### Softare testing fundamentals:
           - Repository 
           - Branch Name 
           - File Name
@@ -360,9 +360,9 @@ def main():
 
         
         """, """
-        ### #  Deploy An Application On Streamlit Cloud
+        ### Deploy An Application On Streamlit Cloud
 
-        #### # Streamlit Python Web Application Deployment Fundamentals:
+        ### Streamlit Python Web Application Deployment Fundamentals:
          - write about deploying applications on streamlit cloud for free
          - write about testing applications using steamlit cloud for free using vcstopdf designed by Nathan Rossow at Burst Software
 
@@ -370,9 +370,9 @@ def main():
 
         
         """, """
-        ### #  Deploy A Public App From Github.com to Streamlit Cloud using a github repository
+        ### Deploy A Public App From Github.com to Streamlit Cloud using a github repository
 
-        #### # talk about everything that comes along with deployong an open source software application using a public github repository:
+        #### talk about everything that comes along with deployong an open source software application using a public github repository:
          - explain what a open source github repository is
          - explain what an public application is
          - explain what it means to deploy a public, open source application using a github repository
