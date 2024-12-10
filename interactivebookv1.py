@@ -335,6 +335,18 @@ def main():
           - What different programming languages can create
           - What you learn when your coding the same project in different programming languages, a pattern emerges
         
+        """, """
+        ### # Write about software testing, software testing documentation, compiling the:
+
+        #### # softare testing fundamentals:
+          - App version 
+          - Interpreter
+          - Regression testing notes
+          - Terminal inputs
+          - Code base
+          - end to end testing
+
+        
         """
     ]
 
