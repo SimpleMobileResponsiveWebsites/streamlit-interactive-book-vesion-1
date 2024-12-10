@@ -63,6 +63,19 @@ def main():
 
         **Start exploring Meta.ai for your development needs here:**
         [Explore Meta.ai](https://meta.ai/)
+        """,
+        """
+        ### Using Google Gemini for AI-Driven Insights
+
+        Google Gemini combines advanced AI technologies to assist developers in creating innovative applications. 
+        Here are key features of Google Gemini:
+
+        1. **Cross-Modal Capabilities:** Work with text, images, and other data seamlessly.
+        2. **Integrated Ecosystem:** Leverage the power of Google's AI ecosystem for your projects.
+        3. **Efficient Problem-Solving:** Use Gemini to analyze data and generate actionable insights quickly.
+
+        **Discover how Google Gemini can empower your applications here:**
+        [Explore Google Gemini](https://ai.google/gemini/)
         """
     ]
 
