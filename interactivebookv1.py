@@ -323,13 +323,10 @@ def main():
         ### Using Generative AI To Read App Version, Interpreter, Terminal Inputs And Code Bases For Fast Prototypying 
 
         #### Using Generative AI To Read:
-
-        1. **App Version **
-        ```
-        2. **Managing Requirements for Different Projects**
-        ```
-        3. **Refactoring and Transpiling Existing Codebases**
-        ```
+          - App Version
+          - Managing Requirements for Different Projects
+          - Refactoring and Transpiling Existing Codebases
+        
         """
     ]
 
