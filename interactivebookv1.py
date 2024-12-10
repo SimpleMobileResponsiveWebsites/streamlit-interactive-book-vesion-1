@@ -323,51 +323,13 @@ def main():
         ### Using Generative AI To Read App Version, Interpreter, Terminal Inputs And Code Bases For Fast Prototypying 
 
         #### Using Generative AI To Read:
-App Version
-Interpreter
-Terminal Inputs And Code Bases For Fast Prototyping
-
 
         1. **App Version **
-        
         ```
-
         2. **Managing Requirements for Different Projects**
-
         ```
-
         3. **Refactoring and Transpiling Existing Codebases**
-
-
         ```
-
-        **AI-Assisted Refactoring Workflow:**
-        1. Use Claude.ai or ChatGPT to analyze code structure
-        2. Identify potential improvements and migration paths
-        3. Generate refactoring suggestions
-        4. Apply changes incrementally
-        5. Validate with comprehensive test suites
-
-        #### Best Practices for Repository Management
-
-        - **Version Control:**
-          - Use meaningful commit messages
-          - Implement branching strategies (GitFlow, trunk-based development)
-          - Use semantic versioning (MAJOR.MINOR.PATCH)
-
-        - **Documentation:**
-          - Maintain clear README files
-          - Use inline code comments
-          - Generate API documentation automatically
-          - Create CHANGELOG.md for tracking changes
-
-        - **Dependency Management:**
-          - Use virtual environments
-          - Regularly update and audit dependencies
-          - Use tools like Dependabot for automatic updates
-          - Pin dependency versions for reproducibility
-
-        **Pro Tip:** Always test thoroughly after refactoring or migrating code bases to ensure functionality remains intact.
         """
     ]
 
