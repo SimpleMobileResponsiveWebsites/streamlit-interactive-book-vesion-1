@@ -351,12 +351,12 @@ def main():
         ### # Repository | Branch Name | File Name | App URL - Name Of Application | Python Version - Advanced Settings
 
         #### # softare testing fundamentals:
-          - App version 
-          - Interpreter
-          - Regression testing notes
-          - Terminal inputs
-          - Code base
-          - end to end testing
+          - Repository 
+          - Branch Name 
+          - File Name
+          - App URL - Name Of Application
+          - Python Version - Advanced Settings
+
 
         
         """
