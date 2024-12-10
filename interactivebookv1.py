@@ -327,6 +327,14 @@ def main():
           - Managing Requirements for Different Projects
           - Refactoring and Transpiling Existing Codebases
         
+        """, """
+        ### Using Generative AI To Read App Version, Interpreter, Terminal Inputs And Code Bases For Fast Prototypying 
+
+        #### Using Generative AI To Read:
+          - App Version
+          - Managing Requirements for Different Projects
+          - Refactoring and Transpiling Existing Codebases
+        
         """
     ]
 
