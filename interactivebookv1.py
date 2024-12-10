@@ -328,12 +328,12 @@ def main():
           - Refactoring and Transpiling Existing Codebases
         
         """, """
-        ### Using Generative AI To Read App Version, Interpreter, Terminal Inputs And Code Bases For Fast Prototypying 
+        ### Streamlit | Streamlit Cloud | A Faster Way To Build Apps
 
-        #### Using Generative AI To Read:
-          - App Version
-          - Managing Requirements for Different Projects
-          - Refactoring and Transpiling Existing Codebases
+        #### # write about the impact of streamlit after learning 12 programming languages:
+          - How different programming languages impact different tech stacks
+          - What different programming languages can create
+          - What you learn when your coding the same project in different programming languages, a pattern emerges
         
         """
     ]
