@@ -50,6 +50,19 @@ def main():
 
         **Start using Claude.ai for your projects here:**
         [Explore Claude.ai](https://claude.ai/)
+        """,
+        """
+        ### Using Meta.ai for Advanced AI Solutions
+
+        Meta.ai offers cutting-edge AI tools for diverse applications, including coding. 
+        Here are some benefits of using Meta.ai:
+
+        1. **Scalable AI Models:** Leverage Meta.ai's infrastructure for handling complex coding and data analysis tasks.
+        2. **Integration Capabilities:** Easily integrate Meta.ai tools into your existing workflows.
+        3. **Comprehensive Support:** Access detailed guides and support to make the most of their tools.
+
+        **Start exploring Meta.ai for your development needs here:**
+        [Explore Meta.ai](https://meta.ai/)
         """
     ]
 
