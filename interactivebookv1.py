@@ -359,6 +359,16 @@ def main():
 
 
         
+        """, """
+        ### #  Deployed Application On Streamlit Cloud
+
+        #### # Streamlit Python Web Application Deployment Fundamentals:
+         - write about deploying applications on streamlit cloud for free
+         - write about testing applications using steamlit cloud for free using vcstopdf designed by Nathan Rossow at Burst Software
+
+
+
+        
         """
     ]
 
