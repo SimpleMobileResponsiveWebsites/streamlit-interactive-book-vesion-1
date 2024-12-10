@@ -76,6 +76,35 @@ def main():
 
         **Discover how Google Gemini can empower your applications here:**
         [Explore Google Gemini](https://ai.google/gemini/)
+        """,
+        """
+        ### Burst Software Methodology
+
+        #### Writing the App
+
+        - Use generational AI to write the code using VCSToPDF.
+        - Open up Claude.ai.
+        - Visit [ChatGPT](https://chat.openai.com/).
+        - Access VCSToPDF: [VCSToPDF](https://vcstopdf1v3.streamlit.app/).
+        - Enter the Python application name.
+        - Include regression testing notes.
+
+        In the code area, use delimiters for each idea, feature, function, requirement, and graphical user interface functionality.
+
+        #### Testing the App
+
+        - Test the app as quickly as possible.
+        - Fast iterations are important in rapid prototyping.
+        - Complete end-to-end testing of the application before releasing the product.
+
+        #### Documenting the App for Version Control and Local Storage
+
+        1. Document the end-to-end testing so others can validate and verify what tests have been completed.
+        2. Use VCSToPDF to:
+           - Document the app version.
+           - Include regression testing notes.
+           - Capture terminal outputs.
+           - Archive code bases.
         """
     ]
 
