@@ -369,6 +369,17 @@ def main():
 
 
         
+        """, """
+        ### #  Deploy A Public App From Github.com to Streamlit Cloud using a github repository
+
+        #### # talk about everything that comes along with deployong an open source software application using a public github repository:
+         - explain what a open source github repository is
+         - explain what an public application is
+         - explain what it means to deploy a public, open source application using a github repository
+
+
+
+        
         """
     ]
 
