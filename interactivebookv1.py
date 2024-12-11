@@ -391,6 +391,29 @@ def main():
 
 
         
+        """, """
+        ### Creating A New Repository | Github.com
+
+        ### Talk about creating a new repository
+         -  talk about creating the requirements.txt file
+         - explain what an public application is
+         -  talk about creating the requirements.txt file
+
+
+
+        
+        """, """
+        ### Create An App using Streamlit Cloud And Github.com
+
+        ### write about creating any application using streamlit cloud, streamlit framework github.com and generative AI methods, and burst software
+         -  creating an application using streamlit cloud
+         - explain the streamlit framework
+         -  talk about generative ai methods
+         - talk about vcstopdf designed by burst software
+
+
+
+        
         """
     ]
 
