@@ -443,10 +443,10 @@ def main():
         ###   Written by *Nathan Rossow - Data Scientist, Data Analyst, Python Programmer, Regression Tester, Project Manager, Streamlit Application Deployment Specialist
     
         ### Necessary tools:
-            - Github.com
-            - Streamlit.io
-            - Pycharm Professional
-            - MacOS Computer, Windows Computer or Linux Computer
+            "- Github.com"
+            "- Streamlit.io"
+            "- Pycharm Professional"
+            "- MacOS Computer, Windows Computer or Linux Computer"
 
          ### In this first chapter, we will create applications deployed in streamlit cloud using github.com and streamlit.io.
 
