@@ -22,12 +22,13 @@ def main():
         ### Step 2
         1. **Create a streamlit.io account.  Login to streamlit.io.**
         2. **When in your streamlit.io account, choose the "Cloud" menu option and open the Streamlit Cloud**
-        3. **Ensure you link your github.com account to your streamlit cloud account.  Linking the your github.com account and your streamlit account enables developers the ability to deploy their reqository directly onto streamlit cloud from their github repostiory.**
+        3. **Ensure you link your github.com account to your streamlit cloud account.  Linking the your github account and the streamlit account enables developers the ability to deploy their reqository directly onto streamlit cloud from their github repostiory.**
             
         ### Third Step:
-        1.  **Download and install Pycharm Professional**
-        2.  **Link your Pycharm Professional softare with your github account.**
-        
+        1.  **Download and install pycharm professional**
+        2.  **Link your pycharm professional softare with your github account.  Linking pycharm professional with the github account allows developers to pull the entire code into pycharm professional from the github repostiory.**
+        3.  **Once changes to the codebase are made locally on your computer while using pycharm professional, as a developer, you can push those changes to the github repository, commit those changes to github repository and deploy the application using streamlit cloud.
+
         ### Fourth Step:
         1. **Open VCSToPDF**
         
