@@ -12,9 +12,9 @@ def main():
     # Sample book content split into manageable strings
     book_pages = [
         """ 
-        ### Burst Softare Methodology: 
+        ### Burst Softare Methodology Written By Nathan Rossow: 
         
-        Chapter 1 - Fast Prototyping For Python Streamlit Web Applications
+        Fast Prototyping For Python Streamlit Web Applications
         
         In this first chapter, we will create applications deployed in streamlit cloud using github.com and streamlit.io.
             
