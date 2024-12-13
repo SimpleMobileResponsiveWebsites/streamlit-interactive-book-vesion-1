@@ -18,18 +18,18 @@ def main():
         
         To create and deploy applications, we are going to use github.com pycharm and streamlit cloud.
             
-        ### First Step
-        Create a GitHub Account: Ensure you have a GitHub account. If you have a Github.com account, please sign in now.
-        If not, sign up and create a github account
-        Login to GitHub: Go to GitHub and log in.
-        Create a new repository for your streamlit web application.
-        Next, enter a name for the repository, choose the gitignore for python and choose next.
+        ### Step 1
+        **Create a GitHub Account: Ensure you have a GitHub account. If you have a Github.com account, please sign in now.**
+        **If not, sign up and create a github account**
+        **Login to GitHub: Go to GitHub and log in**
+        **Create a new repository for your streamlit web application.**
+        **Next, enter a name for the repository, choose the gitignore for python and choose next.**
             
-        ### Second Step
-        Create a streamlit.io account.
-        Login to streamlit.io.
-        When in your streamlit.io account, choose the "Cloud" menu option
-        Link your Github.com account to your streamlit cloud account.
+        ### Step 2
+        **Create a streamlit.io account.**
+        **Login to streamlit.io.**
+        **When in your streamlit.io account, choose the "Cloud" menu option**
+        **Link your Github.com account to your streamlit cloud account.**
             
         ### Third Step:
         Download and install Pycharm Professional
@@ -37,13 +37,16 @@ def main():
         
         ### Fourth Step:
         Open VCSToPDF
-        Enter the app version.  The app version is the file name for your application.
+        
+        Enter the app version.  
+        The app version is the file name for your application.
         Use a # as a deliminter for each:
-        # idea
-        # feature
-        # function
-        # requirement
-        # graphical user interface idea
+        
+        idea
+        feature
+        function
+        requirement
+        graphical user interface idea
     
         ### Fifth Step:  
         
