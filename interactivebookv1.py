@@ -437,7 +437,8 @@ def main():
 
 
         
-        """,  ### Burst Softare: Chapter 1 - Github.com Repositories
+        """,   """ 
+        ### Burst Softare: Chapter 1 - Github.com Repositories
 
         ###   Chapter 1 - Deploying Web Applications Using Github.com Repositories, Streamlit Cloud and Pycharm Professional
         ###   Written by *Nathan Rossow - Data Scientist, Data Analyst, Python Programmer, Regression Tester, Project Manager, Streamlit Application Deployment Specialist
