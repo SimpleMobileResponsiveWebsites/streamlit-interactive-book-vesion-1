@@ -497,7 +497,7 @@ def main():
 
         ### Eleventh Step:
 
-            - Copy the production ready code base, and create a file in the repository on github.com for the application you will soon deploy on streamlit.io, using streamlit cloud and give it a “specificname.py.”
+            - Copy the production ready code base, and create a file in the repository on github.com for the application you will soon deploy on streamlit.io, using streamlit cloud and give it a "specificname.py."
 
             - Ensure you name your application as specific or precise as possible to ensure your naming convention follows the usability and functionality of the web application.
 
