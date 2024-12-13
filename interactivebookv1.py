@@ -452,15 +452,15 @@ def main():
 
          ### First Step
 
-            - Create a GitHub Account: Ensure you have a GitHub account. If not, sign up.
+            "- Create a GitHub Account: Ensure you have a GitHub account. If not, sign up."
 
          ### Second step
 
-            - Login to GitHub: Go to GitHub and log in.
+            "- Login to GitHub: Go to GitHub and log in."
 
         ### Third Step:
 
-            - Create a streamlit.io account.  Ensure you give access to your github.com account.  You will need to link the repositories from github to streamlit.io to deploy the applications on streamlit cloud.  
+            "- Create a streamlit.io account.  Ensure you give access to your github.com account.  You will need to link the repositories from github to streamlit.io to deploy the applications on streamlit cloud."  
 
         ### Fourth Step:
 
