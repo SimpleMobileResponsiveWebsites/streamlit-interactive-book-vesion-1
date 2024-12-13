@@ -20,10 +20,9 @@ def main():
         3. **Next, enter a name for the repository, choose the gitignore for python and choose next.**
             
         ### Step 2
-        1. **Create a streamlit.io account.**
-        2. **Login to streamlit.io.**
-        3. **When in your streamlit.io account, choose the "Cloud" menu option**
-        4. **Link your Github.com account to your streamlit cloud account.**
+        1. **Create a streamlit.io account.  Login to streamlit.io.**
+        2. **When in your streamlit.io account, choose the "Cloud" menu opt ion**
+        3. **Link your Github.com account to your streamlit cloud account.**
             
         ### Third Step:
         1.  **Download and install Pycharm Professional**
