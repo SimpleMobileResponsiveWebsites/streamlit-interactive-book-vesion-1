@@ -30,8 +30,7 @@ def main():
         3.  **Once changes to the codebase are made locally on your computer while using pycharm professional, as a developer, you can push those changes to the github repository, commit those changes to github repository and deploy the application using streamlit cloud.**
 
         ### Fourth Step:
-        1. **Open VCSToPDF**
-        [Open VCSToPDF Tool](https://vcstopdf1v3.streamlit.app/)
+        1. [Open VCSToPDF Tool](https://vcstopdf1v3.streamlit.app/)
         2. **Enter the app version.**
         3. **The app version is the file name for your application.**
         4. **Use a # as a deliminter for each:**
