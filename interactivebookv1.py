@@ -39,9 +39,19 @@ def main():
         7. **function**
         8. **requirement**
         9. **graphical user interface ideas**
-    
-        ### Fifth Step:  
+        10. **Save your inputs to VCSToPDFv1-3.py.**
+        11.  **Generate and download the .pdf file containing all of the steps for (2-9).**
+        12.  **Open the newly downloaded .pdf file.**
+        13.  **Copy all of the contents of the .pdf file.**
         
+        ### Fifth Step:  
+        1. Open your favoriate AI Chat Model.
+        1. Using Grok 
+        2. Using Meta.ai [Explore Meta.ai](https://meta.ai/)
+        3. Using Gemini [Explore Google Gemini](https://ai.google/gemini/)
+        4. Using Deepmind.ai
+        5. Using Claude.ai [Explore Claude.ai](https://claude.ai/)
+        6. Using Chatgpt [Explore ChatGPT](https://chat.openai.com/)
             
         ### Step 6:  
          
