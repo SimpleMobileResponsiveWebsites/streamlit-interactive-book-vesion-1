@@ -15,10 +15,9 @@ def main():
         ### Burst Softare Methodology Written By Nathan Rossow - Fast Prototyping With Github, Streamlit Cloud and Pycharm Professional
             
         ### Step 1
-        1. **Ensure you have a GitHub account. If you have a Github.com account, please sign in now.  If not, sign up and create a github account Create a GitHub Account**
-        2. **Login to GitHub: Go to GitHub and log in**
-        3. **Create a new repository for your streamlit web application.**
-        4. **Next, enter a name for the repository, choose the gitignore for python and choose next.**
+        1. **Ensure you have a GitHub account. If you have a Github.com account, please sign in now.  If not, sign up and create a github account.  Ensure you are logged in.**
+        2. **Create a new repository for your streamlit web application.**
+        3. **Next, enter a name for the repository, choose the gitignore for python and choose next.**
             
         ### Step 2
         1. **Create a streamlit.io account.**
