@@ -510,8 +510,8 @@ def main():
         ### Thirteenth Step:
 
             - Sign into streamlit.io.
-            - Choose “Cloud” from the menu if you are not already in the cloud deployment area where you can click “create app”
-            - Choose “Create App”
+            - Choose "Cloud" from the menu if you are not already in the cloud deployment area where you can click "create app"
+            - Choose "Create App"
 
         ### Fourteenth Step:
 
@@ -545,7 +545,7 @@ def main():
 
                 - In the advanced settings, choose *python 3.10 or higher.
 
-                -    Click the “Deploy” Button
+                -    Click the "Deploy" Button
 
         ### Sixteenth Step:
 
