@@ -97,9 +97,7 @@ def main():
         Look at chapter 2 in Streamlt Applicaiton Deployment Regression Testing and Software Regression Testing Documentation to avoid recursive error recognition, track bugs, fix bugs, eliminate bugs, and bake quality in at every iteration.
         Lastly, chapter 2, allows to track each iteration, document each iteration of the application, with the application name, python interpreter, code base, regression testing notes, additional code snippets and the pycharm terminal if necessary  *Also, you can compile each iteration into precise documentation, allowing you to code iterations much faster without github, but also using AI, as AI can read text and pickup your project in seconds.
 
-"""
-        
-        """
+""", """
         ### Use generative AI coding tools to write the code
 
         **Use the link below to open up a directory of generative AI tools:**
