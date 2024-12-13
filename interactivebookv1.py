@@ -451,42 +451,57 @@ def main():
             - Pycharm Professional
             - MacOS Computer, Windows Computer or Linux Computer
 
-            - In this first chapter, we will create applications deployed in streamlit cloud using github.com and streamlit.io.
-            - First Step
+            In this first chapter, we will create applications deployed in streamlit cloud using github.com and streamlit.io.
+            
+            First Step
             - Create a GitHub Account: Ensure you have a GitHub account. If not, sign up.
-            - Second step
+            
+            Second step
             - Login to GitHub: Go to GitHub and log in.
-            - Third Step:
+            
+            Third Step:
             - Create a streamlit.io account.  Ensure you give access to your github.com account.  You will need to link the repositories from github to streamlit.io to deploy the applications on streamlit cloud."  
-            - Fourth Step:
+            
+            Fourth Step:
             - Login to streamlit.io. 
-            - Fifth Step:  
+            
+            Fifth Step:  
             - When in your account, choose the "Cloud" menu option
-            - Sixth Step:  
-            - Link your Github.com account to your streamlit cloud account.  Here is where you will engage in deploying your applications to a live cloud server if you have repositories to deploy your streamlit web applications using the python programming language, 
-            - Seventh Step:  
+            
+            Sixth Step:  
+            - Link your Github.com account to your streamlit cloud account.  Here is where you will engage in deploying your applications to a live cloud server if you have repositories to deploy your streamlit web applications using the python programming language
+            
+            Seventh Step:  
             - Create a new repository for your streamlit web application
-            - Eighth Step:  
+            
+            Eighth Step:  
             - Write necessary code for your streamlit web application using the python programming language.
             - Run code:  
             - Using pycharm professional
-            - Ninth Step:
+            
+            Ninth Step:
             - Test the streamlit web application using your local computer and pycharm professional.
-            - Tenth Step:
+            
+            Tenth Step:
             - Repeat steps 8 and 9 until the application is fully working, robust and without error; as to remove any error.
-            - Eleventh Step:
+            
+            Eleventh Step:
             - Copy the production ready code base, and create a file in the repository on github.com for the application you will soon deploy on streamlit.io, using streamlit cloud and give it a specificname.py.
             - Ensure you name your application as specific or precise as possible to ensure your naming convention follows the usability and functionality of the web application.
-            - Twelfth Step:
+            
+            Twelfth Step:
             - Create a requirements.txt file in the repository.  
             - Ensure you have the core dependencies in your requirements.txt file and the version of the package or core dependency is up to date with the python version you are deploying your code base with.
-            - Thirteenth Step:
+            
+            Thirteenth Step:
             - Sign into streamlit.io.
             - Choose "Cloud" from the menu if you are not already in the cloud deployment area where you can click "create app"
             - Choose "Create App"
-            - Fourteenth Step:
+            
+            Fourteenth Step:
             - Choose "Deploy a public app from Github"
-            - Fifteenth Step:
+            
+            Fifteenth Step:
             - Enter the repository link:
             - Here is an example:  
             - https://github.com/SimpleMobileResponsiveWebsites/general-contracting-apps
@@ -500,7 +515,8 @@ def main():
             - Flooringappv1
             - In the advanced settings, choose *python 3.10 or higher.
             - Click the "Deploy" Button
-            - Sixteenth Step:
+            
+            Sixteenth Step:
             - Your application will appear within 1-2 minutes.
             - Test your application end to end
             - Test your application a few more times.
