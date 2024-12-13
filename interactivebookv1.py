@@ -515,7 +515,7 @@ def main():
 
         ### Fourteenth Step:
 
-            - Choose “Deploy a public app from Github”
+            - Choose "Deploy a public app from Github"
 
         ### Fifteenth Step:
 
