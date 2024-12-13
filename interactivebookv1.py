@@ -37,12 +37,11 @@ def main():
         2. **Enter the app version.**
         3. **The app version is the file name for your application.**
         4. **Use a # as a deliminter for each:**
-        
-        4-1. **idea**
-        4.2 **feature**
-        4.3 **function**
-        4.4 **requirement**
-        4.5 **graphical user interface ideas**
+        5. **idea**
+        6. **feature**
+        7. **function**
+        8. **requirement**
+        9. **graphical user interface ideas**
     
         ### Fifth Step:  
         
