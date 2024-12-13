@@ -16,32 +16,53 @@ def main():
         
         Fast Prototyping For Python Streamlit Web Applications
         
-        In this first chapter, we will create applications deployed in streamlit cloud using github.com and streamlit.io.
+        To create and deploy applications, we are going to use github.com pycharm and streamlit cloud.
             
         ### First Step
-        Create a GitHub Account: Ensure you have a GitHub account. If not, sign up.
-            
-        ### Second step
+        Create a GitHub Account: Ensure you have a GitHub account. If you have a Github.com account, please sign in now.
+        If not, sign up and create a github account
         Login to GitHub: Go to GitHub and log in.
+        Create a new repository for your streamlit web application.
+        Next, enter a name for the repository, choose the gitignore for python and choose next.
+            
+        ### Second Step
+        Create a streamlit.io account.
+        Login to streamlit.io.
+        When in your streamlit.io account, choose the "Cloud" menu option
+        Link your Github.com account to your streamlit cloud account.
             
         ### Third Step:
-        Create a streamlit.io account.
-            
+        Download and install Pycharm Professional
+        Link your Pycharm Professional softare with your github account.
+        
         ### Fourth Step:
-        Login to streamlit.io. 
-            
+        Open VCSToPDF
+        Enter the app version.  The app version is the file name for your application.
+        Use a # as a deliminter for each:
+        # idea
+        # feature
+        # function
+        # requirement
+        # graphical user interface idea
+    
         ### Fifth Step:  
-        When in your streamlit.io account, choose the "Cloud" menu option
+        
             
-        ### Sixth Step:  
-        Link your Github.com account to your streamlit cloud account.  
-        Here is where you deploy your applications to the streamlit cloud. 
+        ### Step 6:  
+         
             
-        ### Seventh Step:  
-        Create a new repository for your streamlit web application
+        ### Step 7:  
+        
+
+        ### Step 8:  
+        Download and install Pycharm Professional
+
+        ### Step 9: 
+
+        Open Pycharm Professional 
             
         ### Eighth Step:  
-        Write necessary code for your streamlit web application using the python programming language.
+        Using AI,  necessary code for your streamlit web application using the python programming language.
         Run code Using pycharm professional
             
         ### Ninth Step:
