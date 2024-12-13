@@ -468,7 +468,7 @@ def main():
 
         ### Fifth Step:  
 
-             - When in your account, choose the “Cloud” menu option
+             - When in your account, choose the "Cloud" menu option
 
         ### Sixth Step:  
 
