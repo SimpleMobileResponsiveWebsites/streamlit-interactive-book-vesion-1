@@ -46,10 +46,10 @@ def main():
         
         ### Fifth Step:  
         1. Open your favoriate AI Chat Model.
-        1. Using Grok 
+        1. Using Grok [Explore X.ai](https://x.ai/)
         2. Using Meta.ai [Explore Meta.ai](https://meta.ai/)
         3. Using Gemini [Explore Google Gemini](https://ai.google/gemini/)
-        4. Using Deepmind.ai
+        4. Using DeepAi [Explore Deepai.org/chat](https://deepai.org/chat)
         5. Using Claude.ai [Explore Claude.ai](https://claude.ai/)
         6. Using Chatgpt [Explore ChatGPT](https://chat.openai.com/)
             
