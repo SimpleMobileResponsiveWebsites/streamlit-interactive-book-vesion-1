@@ -440,90 +440,89 @@ def main():
         """,   """ 
         ### Burst Softare: Chapter 1 - Github.com Repositories
 
-        ###   Chapter 1 - Deploying Web Applications Using Github.com Repositories, Streamlit Cloud and Pycharm Professional
-        ###   Written by *Nathan Rossow - Data Scientist, Data Analyst, Python Programmer, Regression Tester, Project Manager, Streamlit Application Deployment Specialist
+        Chapter 1 - Deploying Web Applications Using Github.com Repositories, Streamlit Cloud and Pycharm Professional
+        Written by *Nathan Rossow - Data Scientist, Data Analyst, Python Programmer, Regression Tester, Project Manager, Streamlit Application Deployment Specialist
     
-        ### Necessary tools:
+        Necessary tools:
 
-        
-            - Github.com
-            - Streamlit.io
-            - Pycharm Professional
-            - MacOS Computer, Windows Computer or Linux Computer
+            Github.com
+            Streamlit.io
+            Pycharm Professional
+            MacOS Computer, Windows Computer or Linux Computer
 
             In this first chapter, we will create applications deployed in streamlit cloud using github.com and streamlit.io.
             
             First Step
-            - Create a GitHub Account: Ensure you have a GitHub account. If not, sign up.
+            Create a GitHub Account: Ensure you have a GitHub account. If not, sign up.
             
             Second step
-            - Login to GitHub: Go to GitHub and log in.
+            Login to GitHub: Go to GitHub and log in.
             
             Third Step:
-            - Create a streamlit.io account.  Ensure you give access to your github.com account.  You will need to link the repositories from github to streamlit.io to deploy the applications on streamlit cloud."  
+            Create a streamlit.io account.  Ensure you give access to your github.com account.  You will need to link the repositories from github to streamlit.io to deploy the applications on streamlit cloud."  
             
             Fourth Step:
-            - Login to streamlit.io. 
+            Login to streamlit.io. 
             
             Fifth Step:  
-            - When in your account, choose the "Cloud" menu option
+            When in your account, choose the "Cloud" menu option
             
             Sixth Step:  
-            - Link your Github.com account to your streamlit cloud account.  Here is where you will engage in deploying your applications to a live cloud server if you have repositories to deploy your streamlit web applications using the python programming language
+            Link your Github.com account to your streamlit cloud account.  Here is where you will engage in deploying your applications to a live cloud server if you have repositories to deploy your streamlit web applications using the python programming language
             
             Seventh Step:  
-            - Create a new repository for your streamlit web application
+            Create a new repository for your streamlit web application
             
             Eighth Step:  
-            - Write necessary code for your streamlit web application using the python programming language.
-            - Run code:  
-            - Using pycharm professional
+            Write necessary code for your streamlit web application using the python programming language.
+            Run code:  
+            Using pycharm professional
             
             Ninth Step:
-            - Test the streamlit web application using your local computer and pycharm professional.
+            Test the streamlit web application using your local computer and pycharm professional.
             
             Tenth Step:
-            - Repeat steps 8 and 9 until the application is fully working, robust and without error; as to remove any error.
+            Repeat steps 8 and 9 until the application is fully working, robust and without error; as to remove any error.
             
             Eleventh Step:
-            - Copy the production ready code base, and create a file in the repository on github.com for the application you will soon deploy on streamlit.io, using streamlit cloud and give it a specificname.py.
-            - Ensure you name your application as specific or precise as possible to ensure your naming convention follows the usability and functionality of the web application.
+            Copy the production ready code base, and create a file in the repository on github.com for the application you will soon deploy on streamlit.io, using streamlit cloud and give it a specificname.py.
+            Ensure you name your application as specific or precise as possible to ensure your naming convention follows the usability and functionality of the web application.
             
             Twelfth Step:
-            - Create a requirements.txt file in the repository.  
-            - Ensure you have the core dependencies in your requirements.txt file and the version of the package or core dependency is up to date with the python version you are deploying your code base with.
+            Create a requirements.txt file in the repository.  
+            Ensure you have the core dependencies in your requirements.txt file and the version of the package or core dependency is up to date with the python version you are deploying your code base with.
             
             Thirteenth Step:
-            - Sign into streamlit.io.
-            - Choose "Cloud" from the menu if you are not already in the cloud deployment area where you can click "create app"
-            - Choose "Create App"
+            Sign into streamlit.io.
+            Choose "Cloud" from the menu if you are not already in the cloud deployment area where you can click "create app"
+            Choose "Create App"
             
             Fourteenth Step:
-            - Choose "Deploy a public app from Github"
+            Choose "Deploy a public app from Github"
             
             Fifteenth Step:
-            - Enter the repository link:
-            - Here is an example:  
-            - https://github.com/SimpleMobileResponsiveWebsites/general-contracting-apps
-            - Enter the Branch:
-            - Use Main if the branch is main.  Otherwise choose precisely or according to your repository tree.
-            - Choose the Main File Path:
-            - Here is an example of the application file we created on the Eleventh Step:
-            - flooringappv1.py
-            - Enter an App URL:
-            - Here is an example:
-            - Flooringappv1
-            - In the advanced settings, choose *python 3.10 or higher.
-            - Click the "Deploy" Button
+            Enter the repository link:
+            Here is an example:  
+            https://github.com/SimpleMobileResponsiveWebsites/general-contracting-apps
+            Enter the Branch:
+            Use Main if the branch is main.  Otherwise choose precisely or according to your repository tree.
+            Choose the Main File Path:
+            Here is an example of the application file we created on the Eleventh Step:
+            flooringappv1.py
+            Enter an App URL:
+            Here is an example:
+            Flooringappv1
+            In the advanced settings, choose *python 3.10 or higher.
+            Click the "Deploy" Button
             
             Sixteenth Step:
-            **Your application will appear within 1-2 minutes**
-            - Test your application end to end
-            - Test your application a few more times.
-            - Make 100% sure every feature and function works as you have in your design requirements in the initial build out of the application for production and public distribution.
-            - Streamlit Cloud is an open source data science platform; *share your application with others.  *Create a feedback loop where you get feedback quickl
-            - Look at chapter 2 in Streamlt Applicaiton Deployment Regression Testing and Software Regression Testing Documentation to avoid recursive error recognition, track bugs, fix bugs, eliminate bugs, and bake quality in at every iteration.
-            - Lastly, chapter 2, allows to track each iteration, document each iteration of the application, with the application name, python interpreter, code base, regression testing notes, additional code snippets and the pycharm terminal if necessary  *Also, you can compile each iteration into precise documentation, allowing you to code iterations much faster without github, but also using AI, as AI can read text and pickup your project in seconds.
+            Your application will appear within 1-2 minutes
+            Test your application end to end
+            Test your application a few more times.
+            Make 100% sure every feature and function works as you have in your design requirements in the initial build out of the application for production and public distribution.
+            Streamlit Cloud is an open source data science platform; *share your application with others.  *Create a feedback loop where you get feedback quickl
+            Look at chapter 2 in Streamlt Applicaiton Deployment Regression Testing and Software Regression Testing Documentation to avoid recursive error recognition, track bugs, fix bugs, eliminate bugs, and bake quality in at every iteration.
+            Lastly, chapter 2, allows to track each iteration, document each iteration of the application, with the application name, python interpreter, code base, regression testing notes, additional code snippets and the pycharm terminal if necessary  *Also, you can compile each iteration into precise documentation, allowing you to code iterations much faster without github, but also using AI, as AI can read text and pickup your project in seconds.
 
 """
     ]
