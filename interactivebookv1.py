@@ -517,7 +517,7 @@ def main():
             - Click the "Deploy" Button
             
             Sixteenth Step:
-            - Your application will appear within 1-2 minutes.
+            **Your application will appear within 1-2 minutes**
             - Test your application end to end
             - Test your application a few more times.
             - Make 100% sure every feature and function works as you have in your design requirements in the initial build out of the application for production and public distribution.
