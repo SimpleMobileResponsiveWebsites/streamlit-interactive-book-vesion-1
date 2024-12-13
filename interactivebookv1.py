@@ -19,17 +19,17 @@ def main():
         To create and deploy applications, we are going to use github.com pycharm and streamlit cloud.
             
         ### Step 1
-        **Create a GitHub Account: Ensure you have a GitHub account. If you have a Github.com account, please sign in now.**
-        **If not, sign up and create a github account**
-        **Login to GitHub: Go to GitHub and log in**
-        **Create a new repository for your streamlit web application.**
-        **Next, enter a name for the repository, choose the gitignore for python and choose next.**
+        1. **Create a GitHub Account: Ensure you have a GitHub account. If you have a Github.com account, please sign in now.**
+        2. **If not, sign up and create a github account**
+        3. **Login to GitHub: Go to GitHub and log in**
+        4. **Create a new repository for your streamlit web application.**
+        5. **Next, enter a name for the repository, choose the gitignore for python and choose next.**
             
         ### Step 2
-        **Create a streamlit.io account.**
-        **Login to streamlit.io.**
-        **When in your streamlit.io account, choose the "Cloud" menu option**
-        **Link your Github.com account to your streamlit cloud account.**
+        6. **Create a streamlit.io account.**
+        7. **Login to streamlit.io.**
+        8. **When in your streamlit.io account, choose the "Cloud" menu option**
+        9. **Link your Github.com account to your streamlit cloud account.**
             
         ### Third Step:
         Download and install Pycharm Professional
