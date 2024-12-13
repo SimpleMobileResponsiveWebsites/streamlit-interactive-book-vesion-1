@@ -12,10 +12,14 @@ def main():
     # Sample book content split into manageable strings
     book_pages = [
         """ 
-        ### Burst Softare: Chapter 1 - Github.com Repositories
-
+        ### Burst Softare Methodology: Fast Prototyping For Python Streamlit Web Applications
+        
+        Chapter 1 - Settting Up Github.com
+        
+        Repositories
+        
         Chapter 1 - Deploying Web Applications Using Github.com Repositories, Streamlit Cloud and Pycharm Professional
-        Written by *Nathan Rossow - Data Scientist, Data Analyst, Python Programmer, Regression Tester, Project Manager, Streamlit Application Deployment Specialist
+        Written by Nathan Rossow - Data Scientist, Data Analyst, Python Programmer, Regression Tester, Project Manager, Streamlit Application Deployment Specialist
     
         ### Necessary tools:
 
