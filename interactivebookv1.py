@@ -14,9 +14,8 @@ def main():
         """ 
         ### Burst Softare Methodology Written By Nathan Rossow: 
         
-        Fast Prototyping For Python Streamlit Web Applications
-        
-        To create and deploy applications, we are going to use github.com pycharm and streamlit cloud.
+        **Fast Prototyping For Python Streamlit Web Applications**
+        **To create and deploy applications, we are going to use github.com pycharm and streamlit cloud.**
             
         ### Step 1
         1. **Create a GitHub Account: Ensure you have a GitHub account. If you have a Github.com account, please sign in now.**
@@ -26,27 +25,27 @@ def main():
         5. **Next, enter a name for the repository, choose the gitignore for python and choose next.**
             
         ### Step 2
-        6. **Create a streamlit.io account.**
-        7. **Login to streamlit.io.**
-        8. **When in your streamlit.io account, choose the "Cloud" menu option**
-        9. **Link your Github.com account to your streamlit cloud account.**
+        1. **Create a streamlit.io account.**
+        2. **Login to streamlit.io.**
+        3. **When in your streamlit.io account, choose the "Cloud" menu option**
+        4. **Link your Github.com account to your streamlit cloud account.**
             
         ### Third Step:
-        Download and install Pycharm Professional
-        Link your Pycharm Professional softare with your github account.
+        1.  **Download and install Pycharm Professional**
+        2.  **Link your Pycharm Professional softare with your github account.**
         
         ### Fourth Step:
-        Open VCSToPDF
+        1. **Open VCSToPDF**
         
-        Enter the app version.  
-        The app version is the file name for your application.
-        Use a # as a deliminter for each:
+        2. **Enter the app version.**
+        3. **The app version is the file name for your application.**
+        4. **Use a # as a deliminter for each:**
         
-        idea
-        feature
-        function
-        requirement
-        graphical user interface idea
+        4-1. **idea**
+        4.2 **feature**
+        4.3 **function**
+        4.4 **requirement**
+        4.5 **graphical user interface ideas**
     
         ### Fifth Step:  
         
