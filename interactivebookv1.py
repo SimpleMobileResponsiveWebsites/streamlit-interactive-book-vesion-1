@@ -12,22 +12,10 @@ def main():
     # Sample book content split into manageable strings
     book_pages = [
         """ 
-        ### Burst Softare Methodology: Fast Prototyping For Python Streamlit Web Applications
+        ### Burst Softare Methodology: 
         
-        Chapter 1 - Settting Up Github.com
+        Chapter 1 - Fast Prototyping For Python Streamlit Web Applications
         
-        Repositories
-        
-        Chapter 1 - Deploying Web Applications Using Github.com Repositories, Streamlit Cloud and Pycharm Professional
-        Written by Nathan Rossow - Data Scientist, Data Analyst, Python Programmer, Regression Tester, Project Manager, Streamlit Application Deployment Specialist
-    
-        ### Necessary tools:
-
-        Github.com
-        Streamlit.io
-        Pycharm Professional
-        MacOS Computer, Windows Computer or Linux Computer
-
         In this first chapter, we will create applications deployed in streamlit cloud using github.com and streamlit.io.
             
         ### First Step
@@ -37,16 +25,17 @@ def main():
         Login to GitHub: Go to GitHub and log in.
             
         ### Third Step:
-        Create a streamlit.io account.  Ensure you give access to your github.com account.  You will need to link the repositories from github to streamlit.io to deploy the applications on streamlit cloud."  
+        Create a streamlit.io account.
             
         ### Fourth Step:
         Login to streamlit.io. 
             
         ### Fifth Step:  
-        When in your account, choose the "Cloud" menu option
+        When in your streamlit.io account, choose the "Cloud" menu option
             
         ### Sixth Step:  
-        Link your Github.com account to your streamlit cloud account.  Here is where you will engage in deploying your applications to a live cloud server if you have repositories to deploy your streamlit web applications using the python programming language
+        Link your Github.com account to your streamlit cloud account.  
+        Here is where you deploy your applications to the streamlit cloud. 
             
         ### Seventh Step:  
         Create a new repository for your streamlit web application
