@@ -12,7 +12,7 @@ def main():
     # Sample book content split into manageable strings
     book_pages = [
         """ 
-        ### Burst Softare Methodology Written By Nathan Rossow - Fast Prototyping With Github, Streamlit Cloud and Pycharm Professional:
+        ### Burst Softare Methodology Written By Nathan Rossow - Fast Prototyping With Github, Streamlit Cloud and Pycharm Professional
             
         ### Step 1
         1. **Create a GitHub Account: Ensure you have a GitHub account. If you have a Github.com account, please sign in now.**
