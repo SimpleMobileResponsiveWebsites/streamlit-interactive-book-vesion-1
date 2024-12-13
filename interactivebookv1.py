@@ -437,8 +437,7 @@ def main():
 
 
         
-        """, """
-        ### Burst Softare: Chapter 1 - Github.com Repositories
+        """,  ### Burst Softare: Chapter 1 - Github.com Repositories
 
         ###   Chapter 1 - Deploying Web Applications Using Github.com Repositories, Streamlit Cloud and Pycharm Professional
         ###   Written by *Nathan Rossow - Data Scientist, Data Analyst, Python Programmer, Regression Tester, Project Manager, Streamlit Application Deployment Specialist
@@ -566,12 +565,6 @@ def main():
 
             - Lastly, chapter 2, allows to track each iteration, document each iteration of the application, with the application name, python interpreter, code base, regression testing notes, additional code snippets and the pycharm terminal if necessary  *Also, you can compile each iteration into precise documentation, allowing you to code iterations much faster without github, but also using AI, as AI can read text and pickup your project in seconds.
 
-
-
-
-
-        
-        """
     ]
 
     # Number of pages in the book
