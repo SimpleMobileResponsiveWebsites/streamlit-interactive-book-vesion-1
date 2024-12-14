@@ -23,11 +23,22 @@ def main():
         1. **Create a streamlit.io account.  Login to streamlit.io.**
         2. **When in your streamlit.io account, choose the "Cloud" menu option and open the Streamlit Cloud**
         3. **Ensure you link your github.com account to your streamlit cloud account.  Linking the your github account and the streamlit account enables developers the ability to deploy their reqository directly onto streamlit cloud from their github repostiory.**
+        4. **Create a Streamlit Community Cloud account by signing up at share.streamlit.io**
         4. **To connect Streamlit.io to GitHub, developers need to follow these steps**
         5. **Click on "Workspaces" in the upper-left corner**
         6. **Select "Connect GitHub account" from the dropdown menu**
         7. **Enter your GitHub credentials and follow the authentication prompts**
         8. **Click "Authorize streamlit" to grant Streamlit access to your public repositories**
+        9. **For access to private repositories (optional)**
+        10. **Click on your GitHub username in the upper-left corner**
+        11. **Go to "Settings" and then "Linked accounts"**
+        12. **Under "Source control," click "Connect here"**
+        13. **Click "Authorize streamlit" again**
+        14. **Add your Streamlit app files to the repository, including a streamlit_app.py file1.**
+        15. **Deploy your app on Streamlit Community Cloud by creating a new app and selecting your GitHub repository**
+        16. **By following these steps, developers can seamlessly connect their Streamlit projects to GitHub, enabling version control and easy deployment of their applications.**
+
+
 
 
             
