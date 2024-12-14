@@ -23,6 +23,13 @@ def main():
         1. **Create a streamlit.io account.  Login to streamlit.io.**
         2. **When in your streamlit.io account, choose the "Cloud" menu option and open the Streamlit Cloud**
         3. **Ensure you link your github.com account to your streamlit cloud account.  Linking the your github account and the streamlit account enables developers the ability to deploy their reqository directly onto streamlit cloud from their github repostiory.**
+        4. **To connect Streamlit.io to GitHub, developers need to follow these steps**
+        5. **Click on "Workspaces" in the upper-left corner**
+        6. **Select "Connect GitHub account" from the dropdown menu**
+        7. **Enter your GitHub credentials and follow the authentication prompts**
+        8. **Click "Authorize streamlit" to grant Streamlit access to your public repositories**
+
+
             
         ### Third Step:
         1.  **Download and install pycharm professional**
