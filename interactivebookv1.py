@@ -14,34 +14,21 @@ def main():
         """ 
         ### Burst Softare Methodology Written By Nathan Rossow - Fast Prototyping With Github, Streamlit Cloud, Python And Pycharm Professional
             
-        ### Step 1
+        ### Step 1 - Getting Started With Github
         1. **Ensure you have a GitHub account. If you have a Github.com account, please sign in now.  If not, sign up and create a github account.  Ensure you are logged in.**
         2. **Create a new repository for your streamlit web application.**
         3. **Next, enter a name for the repository, choose the gitignore for python and choose next.**
             
-        ### Step 2
-        1. **Create a streamlit.io account.  Login to streamlit.io.**
-        2. **When in your streamlit.io account, choose the "Cloud" menu option and open the Streamlit Cloud**
-        3. **Ensure you link your github.com account to your streamlit cloud account.  Linking the your github account and the streamlit account enables developers the ability to deploy their reqository directly onto streamlit cloud from their github repostiory.**
-        4. **Create a Streamlit Community Cloud account by signing up at share.streamlit.io**
-        4. **To connect Streamlit.io to GitHub, developers need to follow these steps**
-        5. **Click on "Workspaces" in the upper-left corner**
-        6. **Select "Connect GitHub account" from the dropdown menu**
-        7. **Enter your GitHub credentials and follow the authentication prompts**
-        8. **Click "Authorize streamlit" to grant Streamlit access to your public repositories**
-        9. **For access to private repositories (optional)**
-        10. **Click on your GitHub username in the upper-left corner**
-        11. **Go to "Settings" and then "Linked accounts"**
-        12. **Under "Source control," click "Connect here"**
-        13. **Click "Authorize streamlit" again**
-        14. **Add your Streamlit app files to the repository, including a streamlit_app.py file1.**
-        15. **Deploy your app on Streamlit Community Cloud by creating a new app and selecting your GitHub repository**
-        16. **By following these steps, developers can seamlessly connect their Streamlit projects to GitHub, enabling version control and easy deployment of their applications.**
-
-
-
-
-            
+        ### Step 2 - Getting Started with Streamlit and GitHub
+        
+        1. **Sign up at streamlit.io and share.streamlit.io.**
+        2. **Log in to your Streamlit account.**
+        3. **To link your github account, open the cloud menu in streamlit and select workspaces.**
+        4. **Choose Connect GitHub account from the dropdown.**
+        5. **Enter your GitHub credentials and authorize Streamlit to access your repositories.**
+        6. **To access private repositories (optional), Go to Settings > Linked accounts in github.**
+        7. **Click Connect here under Source control and reauthorize Streamlit.**
+        
         ### Third Step:
         1.  **Download and install pycharm professional**
         2.  **Link your pycharm professional softare with your github account.  Linking pycharm professional with the github account allows developers to pull the entire project into pycharm professional from the github repostiory.**
