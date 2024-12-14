@@ -19,7 +19,7 @@ def main():
         2. **Create a new repository for your streamlit web application.**
         3. **Next, enter a name for the repository, choose the gitignore for python and choose next.**
             
-        ### Step 2 - Getting Started with Streamlit and GitHub
+        ### Step 2 - Getting Started with Streamlit
         
         1. **Sign up at streamlit.io and share.streamlit.io.**
         2. **Log in to your Streamlit account.**
@@ -29,15 +29,18 @@ def main():
         6. **To access private repositories (optional), Go to Settings > Linked accounts in github.**
         7. **Click Connect here under Source control and reauthorize Streamlit.**
         
-        ### Third Step:
+        ### Step 3: Using PyCharm Professional with GitHub
         1.  **Download and install pycharm professional**
-        2.  **Link your pycharm professional softare with your github account.  Linking pycharm professional with the github account allows developers to pull the entire project into pycharm professional from the github repostiory.**
-        3.  **Once changes to the codebase are made locally on your computer while using pycharm professional, as a developer, you can push and commit those changes to the github repository and deploy the application using streamlit cloud.**
+        2.  **Connect your GitHub account to PyCharm to sync your projects.**
+        3.  **Pull your project from GitHub into PyCharm.**
+        3.  *Make code changes locally in PyCharm.**
+        3.  **Push and commit updates to GitHub.**
+        3.  **Deploy your application via Streamlit Cloud.**
 
-        ### Fourth Step:
+        ### Step 4: Using the VCSToPDF Tool
         1. [Open VCSToPDF Tool](https://vcstopdf1v3.streamlit.app/)
-        2. **Enter the app version.**
-        3. **The app version is the file name for your application.**
+        2. **Enter the app version (the file name for your application).**
+        3. **Use # as a delimiter to list**
         4. **Use a # as a deliminter for each:**
         5. **idea**
         6. **feature**
@@ -45,9 +48,9 @@ def main():
         8. **requirement**
         9. **graphical user interface ideas**
         10. **Save your inputs to VCSToPDFv1-3.py.**
-        11.  **Generate and download the .pdf file containing all of the steps for (2-9).**
-        12.  **Open the newly downloaded .pdf file.**
-        13.  **Copy all of the contents of the .pdf file.**
+        11. **Generate and download the PDF containing your inputs.**
+        12. **Open the downloaded PDF and copy its contents.**
+        13. **This tool organizes and converts your project details into a PDF format.**
         
         ### Fifth Step:  
         1. Open your favoriate AI Chat Model.
