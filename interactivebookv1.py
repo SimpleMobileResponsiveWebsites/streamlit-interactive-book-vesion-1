@@ -26,8 +26,8 @@ def main():
             
         ### Third Step:
         1.  **Download and install pycharm professional**
-        2.  **Link your pycharm professional softare with your github account.  Linking pycharm professional with the github account allows developers to pull the entire code into pycharm professional from the github repostiory.**
-        3.  **Once changes to the codebase are made locally on your computer while using pycharm professional, as a developer, you can push those changes to the github repository, commit those changes to github repository and deploy the application using streamlit cloud.**
+        2.  **Link your pycharm professional softare with your github account.  Linking pycharm professional with the github account allows developers to pull the entire project into pycharm professional from the github repostiory.**
+        3.  **Once changes to the codebase are made locally on your computer while using pycharm professional, as a developer, you can push and commit those changes to the github repository and deploy the application using streamlit cloud.**
 
         ### Fourth Step:
         1. [Open VCSToPDF Tool](https://vcstopdf1v3.streamlit.app/)
