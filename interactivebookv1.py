@@ -53,7 +53,7 @@ def main():
         13. **This tool organizes and converts your project details into a PDF format.**
         
         ### Step 5:  Generating Code for Your Streamlit App Using AI Tools
-        1. Use AI tools to generate code for your Streamlit app developmnt by generating code and spend more time testing code, deploying applications, invoicing clients.**  
+        1. **Use AI tools to generate code for your Streamlit app developmnt by generating code and spend more time testing code, deploying applications, invoicing clients.**  
         1. Using Grok [Explore X.ai](https://x.ai/)
         2. Using Meta.ai [Explore Meta.ai](https://meta.ai/)
         3. Using Gemini [Explore Google Gemini](https://ai.google/gemini/)
