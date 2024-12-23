@@ -33,7 +33,7 @@ def main():
         1.  **Download and install pycharm professional**
         2.  **Connect your GitHub account to PyCharm to sync your projects.**
         3.  **Pull your project from GitHub into PyCharm.**
-        3.  *Make code changes locally in PyCharm.**
+        3.  **Make code changes locally in PyCharm.**
         3.  **Push and commit updates to GitHub.**
         3.  **Deploy your application via Streamlit Cloud.**
 
